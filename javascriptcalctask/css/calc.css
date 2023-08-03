@@ -1,0 +1,31 @@
+body{
+    background:linear-gradient(-120deg, #4285f4, #34a853, #fbbc05, #ea4335);
+    font-family: 'Lilita One', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Tektur', cursive;
+text-shadow: 3px 3px red;
+
+}
+.numbers{
+    color: black;
+    font-weight: bolder;
+}
+.form-control{
+    border: 1px solid black opacity 0.2;
+        border-radius: 10px 10px;
+        width:580px;
+        background:linear-gradient(-120deg, #4285f4, #34a853, #fbbc05, #ea4335);
+        margin: 10% 30%;
+    }
+    .labels{
+        color: white;
+        font-weight: bolder;
+    }
+    .labels1{
+        color: white;
+        font-weight: bolder;
+        font-size: 22px;
+    }
+    .btn:hover{
+        box-shadow: 10px 10px 10px 10px black;
+    }
